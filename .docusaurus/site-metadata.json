@@ -26,12 +26,9 @@
       "type": "package",
       "name": "@docusaurus/theme-classic",
       "version": "3.4.0"
-<<<<<<< HEAD
-=======
     },
     "docusaurus-tailwindcss": {
       "type": "local"
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
     }
   }
 }

@@ -46,7 +46,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-<<<<<<< HEAD
               "id": "tutorial-extras/Invoce",
               "path": "/docs/tutorial-extras/Invoce",
               "sidebar": "tutorialSidebar"
@@ -59,15 +58,6 @@
             {
               "id": "tutorial-extras/Publicity",
               "path": "/docs/tutorial-extras/Publicity",
-=======
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
               "sidebar": "tutorialSidebar"
             },
             {

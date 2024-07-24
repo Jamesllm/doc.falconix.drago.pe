@@ -37,15 +37,6 @@ export default {
       }
     ]
   ],
-<<<<<<< HEAD
-  "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
-    "navbar": {
-      "title": "Docs - API Falconix",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
-=======
   "plugins": [
     null
   ],
@@ -56,7 +47,6 @@ export default {
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo-icon-name.png"
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
       },
       "items": [
         {
@@ -69,14 +59,6 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
-<<<<<<< HEAD
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
-=======
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
         }
       ],
       "hideOnScroll": false
@@ -332,10 +314,6 @@ export default {
     "static"
   ],
   "customFields": {},
-<<<<<<< HEAD
-  "plugins": [],
-=======
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
   "themes": [],
   "scripts": [],
   "headTags": [],

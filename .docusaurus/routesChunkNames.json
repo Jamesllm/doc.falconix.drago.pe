@@ -194,29 +194,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-<<<<<<< HEAD
   "/docs-8b2": {
-=======
-  "/docs-733": {
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-<<<<<<< HEAD
   "/docs-3be": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
   "/docs-8a8": {
-=======
-  "/docs-7e6": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
-  },
-  "/docs-ba6": {
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/tutorial---basics-20e": {
@@ -255,7 +243,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-<<<<<<< HEAD
   "/docs/tutorial-extras/Invoce-bea": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-invoce-7-bd-b77"
@@ -267,15 +254,6 @@
   "/docs/tutorial-extras/Publicity-0f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-publicity-47-d-724"
-=======
-  "/docs/tutorial-extras/manage-docs-versions-978": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-f9a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
->>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

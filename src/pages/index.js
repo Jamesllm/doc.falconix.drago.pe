@@ -76,7 +76,7 @@ export default function Home() {
         <HomepageHeader />
       </CustomSection>
       <main>
-        <CustomSection bgColor="bg-gray-100">
+        <CustomSection bgColor="bg-[#fd7254]">
           <Diagrama />
         </CustomSection>
         <CustomSection>
