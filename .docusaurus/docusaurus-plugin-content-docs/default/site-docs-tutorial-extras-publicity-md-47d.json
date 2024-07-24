@@ -1,0 +1,22 @@
+{
+  "id": "tutorial-extras/Publicity",
+  "title": "Publicity",
+  "description": "Este apartado contiene diferentes modelos de publicidad que se pueden enviar mediante correo electrónico al cliente, siendo una forma práctica de ofrecer los productos o servicios disponibles.",
+  "source": "@site/docs/tutorial-extras/Publicity.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Publicity",
+  "permalink": "/docs/tutorial-extras/Publicity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Invoce",
+    "permalink": "/docs/tutorial-extras/Invoce"
+  }
+}
