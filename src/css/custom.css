@@ -11,6 +11,9 @@
    @apply text-5xl font-bold
  }
 
+ h2{
+   @apply text-4xl font-bold
+ }
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #fc4e29;
@@ -40,4 +43,59 @@
 
 .text-primary{
   color: var(--ifm-color-primary);
+}
+
+
+/* Table styles */
+.tb-pixel {
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+
+.tb-pixel table {
+  display: table;
+  width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  display: block;
+  margin-bottom: var(--ifm-spacing-vertical);
+}
+
+table {
+  overflow: auto;
+}
+
+.tb-pixel table thead {
+  background-color: var(--ifm-color-primary);
+  color: rgb(255, 255, 255);
+}
+
+table tr {
+  background-color: var(--ifm-table-background);
+  border-top: var(--ifm-table-border-width) solid var(--ifm-table-border-color);
+}
+
+.tb-pixel table td, .tb-pixel table th {
+  font-size: 15px;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+}
+
+table td, table th {
+  border: var(--ifm-table-border-width) solid var(--ifm-table-border-color);
+  padding: var(--ifm-table-cell-padding);
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  unicode-bidi: isolate;
+  border-color: inherit;
 }

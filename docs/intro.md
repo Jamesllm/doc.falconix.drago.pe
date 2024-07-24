@@ -14,9 +14,18 @@ API facil de implementar en cualquier proyecto.
 
 La expresion crom para este servicio es la siguiente
 
-- Minutos
-- Horas
-- Dias del mes
-- Mes
-- Dias de la semena
+
+![Expresion crom](./img/expresion.svg)
+
+import TableDrago from "@site/src/components/table"; 
+
+<TableDrago thead="*,*,*,*,*">
+<tr>
+    <td>Minutos</td>
+    <td>Horas</td>
+    <td>Dias del mes</td>
+    <td>Mes</td>
+    <td>Dias de la semana</td>
+</tr>
+</TableDrago>
 
