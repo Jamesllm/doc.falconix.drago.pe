@@ -99,6 +99,7 @@ export default [
   },
   {
     path: '/docs',
+<<<<<<< HEAD
     component: ComponentCreator('/docs', '8b2'),
     routes: [
       {
@@ -108,6 +109,17 @@ export default [
           {
             path: '/docs',
             component: ComponentCreator('/docs', '8a8'),
+=======
+    component: ComponentCreator('/docs', '733'),
+    routes: [
+      {
+        path: '/docs',
+        component: ComponentCreator('/docs', '7e6'),
+        routes: [
+          {
+            path: '/docs',
+            component: ComponentCreator('/docs', 'ba6'),
+>>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
             routes: [
               {
                 path: '/docs/category/tutorial---basics',
@@ -164,12 +176,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+<<<<<<< HEAD
                 path: '/docs/tutorial-extras/Invoce',
                 component: ComponentCreator('/docs/tutorial-extras/Invoce', 'bea'),
+=======
+                path: '/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+>>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
+<<<<<<< HEAD
                 path: '/docs/tutorial-extras/New order',
                 component: ComponentCreator('/docs/tutorial-extras/New order', '9fc'),
                 exact: true,
@@ -178,6 +196,10 @@ export default [
               {
                 path: '/docs/tutorial-extras/Publicity',
                 component: ComponentCreator('/docs/tutorial-extras/Publicity', '0f7'),
+=======
+                path: '/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+>>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

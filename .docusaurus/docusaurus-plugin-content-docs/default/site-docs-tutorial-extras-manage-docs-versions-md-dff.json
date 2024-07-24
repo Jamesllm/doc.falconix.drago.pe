@@ -16,11 +16,20 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
+<<<<<<< HEAD
     "title": "New Order",
     "permalink": "/docs/tutorial-extras/New order"
   },
   "next": {
     "title": "Invoce",
     "permalink": "/docs/tutorial-extras/Invoce"
+=======
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+>>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
   }
 }

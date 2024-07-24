@@ -16,7 +16,12 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
+<<<<<<< HEAD
     "title": "Invoce",
     "permalink": "/docs/tutorial-extras/Invoce"
+=======
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/tutorial-extras/manage-docs-versions"
+>>>>>>> cd507869f731a4dfc45f4111da9068b196570aaf
   }
 }
