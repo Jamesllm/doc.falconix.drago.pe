@@ -17,7 +17,7 @@ La expresion crom para este servicio es la siguiente
 
 ![Expresion crom](./img/expresion.svg)
 
-import TableDrago from "@site/src/components/table"; 
+import TableDrago from "@site/src/components/Table"; 
 
 <TableDrago thead="*,*,*,*,*">
 <tr>
