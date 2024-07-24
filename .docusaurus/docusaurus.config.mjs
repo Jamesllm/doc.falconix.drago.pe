@@ -6,11 +6,11 @@
 export default {
   "title": "API falconix",
   "tagline": "by Drago",
-  "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "favicon": "img/logo.png",
+  "url": "https://drago.pe",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "Drago",
+  "projectName": "API Falconix",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "presets": [
@@ -68,7 +68,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 API falconix."
     },
     "prism": {
       "theme": {

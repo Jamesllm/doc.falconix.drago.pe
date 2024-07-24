@@ -194,22 +194,22 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-8b2": {
+  "/docs-89a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-3be": {
+  "/docs-4ef": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-8a8": {
+  "/docs-ce9": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/tutorial---basics-20e": {
+  "/docs/category/programar-tareas-ab0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
+    "__props": "__props---docs-category-programar-tareasf-2-a-12e"
   },
   "/docs/category/tutorial---extras-9ad": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -219,29 +219,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/tutorial-basics/congratulations-458": {
+  "/docs/programar-tareas/tareas-b4c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
-  },
-  "/docs/tutorial-basics/create-a-blog-post-108": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-8fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-951": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-4f5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-b05": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+    "content": "content---docs-programar-tareas-tareas-8-b-1-d9f"
   },
   "/docs/tutorial-extras/Invoce-bea": {
     "__comp": "__comp---theme-doc-item-178-a40",

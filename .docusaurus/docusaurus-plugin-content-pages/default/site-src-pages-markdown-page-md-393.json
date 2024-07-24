@@ -2,10 +2,10 @@
   "type": "mdx",
   "permalink": "/markdown-page",
   "source": "@site/src/pages/markdown-page.md",
-  "title": "Markdown page example",
+  "title": "API falconix",
   "description": "You don't need React to write simple standalone pages.",
   "frontMatter": {
-    "title": "Markdown page example"
+    "title": "API falconix"
   },
   "unlisted": false
 }

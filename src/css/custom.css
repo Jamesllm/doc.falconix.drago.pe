@@ -99,3 +99,8 @@ tbody {
   unicode-bidi: isolate;
   border-color: inherit;
 }
+
+/* footer */
+.footer{
+  background-color: var(--ifm-color-primary) !important;
+}

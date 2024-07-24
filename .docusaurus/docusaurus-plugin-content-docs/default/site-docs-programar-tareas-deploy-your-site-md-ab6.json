@@ -1,0 +1,26 @@
+{
+  "id": "programar-tareas/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/programar-tareas/deploy-your-site.md",
+  "sourceDirName": "programar-tareas",
+  "slug": "/programar-tareas/deploy-your-site",
+  "permalink": "/docs/programar-tareas/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/programar-tareas/markdown-features"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}
