@@ -5,7 +5,7 @@ export default function Diagrama() {
     <div className="flex justify-center items-center w-full h-full flex-col py-10 lg:py-20">
       <div className="mb-5">
         <h2 className="text-4xl lg:text-6xl font-bold my-5 text-white">Estructura organizada</h2>
-        <p className="text-xl lg:text-2xl">
+        <p className="lg:text-2xl">
           Este diagrama muestra como funciona la arquitectura de la API Falconix
         </p>
       </div>

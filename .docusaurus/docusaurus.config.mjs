@@ -35,6 +35,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
+      "hideOnScroll": true,
       "title": "",
       "logo": {
         "alt": "My Site Logo",
@@ -52,8 +53,7 @@ export default {
           "label": "Blog",
           "position": "left"
         }
-      ],
-      "hideOnScroll": false
+      ]
     },
     "footer": {
       "style": "dark",

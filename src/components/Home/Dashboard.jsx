@@ -8,7 +8,7 @@ export default function Dashboard() {
         <h2 className="text-4xl lg:text-6xl font-bold my-5">
           Facil uso del DashBoard
         </h2>
-        <p className="text-xl text-gray-500 mb-8">
+        <p className="md:text-xl text-gray-500 mb-8">
           El dashboard de Falconix está diseñado para brindar una experiencia de
           usuario superior. Con una interfaz intuitiva, puedes programar tus
           tareas y configurar el envío automático de correos electrónicos de
