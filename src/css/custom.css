@@ -104,3 +104,34 @@ tbody {
 .footer{
   background-color: var(--ifm-color-primary) !important;
 }
+
+
+.flex{
+  gap: 5px;
+  align-items: center;
+  display: flex;
+}
+
+.get{
+  background-color: #19B437;
+  border-radius: 8px;
+  color: #fff;
+  padding: 13px 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: var(--ifm-leading);
+}
+
+.post{
+  background-color: rgb(249, 193, 29);
+  border-radius: 8px;
+  color: #fff;
+  padding: 13px 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: var(--ifm-leading);
+}
+
+.url{
+  width: 100%;
+}

@@ -1,0 +1,26 @@
+{
+  "id": "programar-tareas/modificar",
+  "title": "Modificar tarea",
+  "description": "Endpoint para modificar una tarea al scheduler.",
+  "source": "@site/docs/programar-tareas/modificar.md",
+  "sourceDirName": "programar-tareas",
+  "slug": "/programar-tareas/modificar",
+  "permalink": "/docs/programar-tareas/modificar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ejecutar tarea inmediatamente",
+    "permalink": "/docs/programar-tareas/execute"
+  },
+  "next": {
+    "title": "Mostrar todas las tareas",
+    "permalink": "/docs/programar-tareas/todas_tareas"
+  }
+}

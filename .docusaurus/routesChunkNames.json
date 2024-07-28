@@ -194,46 +194,58 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-89a": {
+  "/docs-9af": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-4ef": {
+  "/docs-523": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-ce9": {
+  "/docs-f6d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/enviar-correos-81e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-enviar-correosbb-4-cf6"
   },
   "/docs/category/programar-tareas-ab0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-programar-tareasf-2-a-12e"
   },
-  "/docs/category/tutorial---extras-9ad": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+  "/docs/enviar-correos/Invoce-3c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-enviar-correos-invoce-7-fb-3e9"
+  },
+  "/docs/enviar-correos/New order-216": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-enviar-correos-new-order-774-63d"
+  },
+  "/docs/enviar-correos/Publicity-f24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-enviar-correos-publicitye-68-1db"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
+  "/docs/programar-tareas/execute-7e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programar-tareas-execute-8-d-7-364"
+  },
+  "/docs/programar-tareas/modificar-2ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programar-tareas-modificar-5-f-4-104"
+  },
   "/docs/programar-tareas/tareas-b4c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-programar-tareas-tareas-8-b-1-d9f"
   },
-  "/docs/tutorial-extras/Invoce-bea": {
+  "/docs/programar-tareas/todas_tareas-9b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-invoce-7-bd-b77"
-  },
-  "/docs/tutorial-extras/New order-9fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-new-order-369-1d5"
-  },
-  "/docs/tutorial-extras/Publicity-0f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-publicity-47-d-724"
+    "content": "content---docs-programar-tareas-todas-tareas-610-fc0"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

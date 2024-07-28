@@ -11,8 +11,33 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "enviar-correos/Invoce",
+              "path": "/docs/enviar-correos/Invoce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enviar-correos/New order",
+              "path": "/docs/enviar-correos/New order",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enviar-correos/Publicity",
+              "path": "/docs/enviar-correos/Publicity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "programar-tareas/execute",
+              "path": "/docs/programar-tareas/execute",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "programar-tareas/modificar",
+              "path": "/docs/programar-tareas/modificar",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,18 +46,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/Invoce",
-              "path": "/docs/tutorial-extras/Invoce",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/New order",
-              "path": "/docs/tutorial-extras/New order",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/Publicity",
-              "path": "/docs/tutorial-extras/Publicity",
+              "id": "programar-tareas/todas_tareas",
+              "path": "/docs/programar-tareas/todas_tareas",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,8 +56,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/enviar-correos",
+              "path": "/docs/category/enviar-correos",
               "sidebar": "tutorialSidebar"
             }
           ],

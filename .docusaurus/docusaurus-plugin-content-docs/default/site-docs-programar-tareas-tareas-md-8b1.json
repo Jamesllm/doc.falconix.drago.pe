@@ -1,7 +1,7 @@
 {
   "id": "programar-tareas/tareas",
-  "title": "Tareas programadas",
-  "description": "",
+  "title": "Agregar tarea",
+  "description": "Endpoint para agregar una nueva tarea al scheduler.",
   "source": "@site/docs/programar-tareas/tareas.md",
   "sourceDirName": "programar-tareas",
   "slug": "/programar-tareas/tareas",
@@ -20,7 +20,7 @@
     "permalink": "/docs/category/programar-tareas"
   },
   "next": {
-    "title": "Tutorial - Extras",
-    "permalink": "/docs/category/tutorial---extras"
+    "title": "Ejecutar tarea inmediatamente",
+    "permalink": "/docs/programar-tareas/execute"
   }
 }

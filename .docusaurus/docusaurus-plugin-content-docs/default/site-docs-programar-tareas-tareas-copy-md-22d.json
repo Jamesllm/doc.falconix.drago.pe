@@ -1,7 +1,7 @@
 {
   "id": "programar-tareas/tareas copy",
-  "title": "Tareas programadas",
-  "description": "",
+  "title": "Agregar tarea",
+  "description": "Endpoint para agregar una nueva tarea al scheduler.",
   "source": "@site/docs/programar-tareas/tareas copy.md",
   "sourceDirName": "programar-tareas",
   "slug": "/programar-tareas/tareas copy",
@@ -20,7 +20,7 @@
     "permalink": "/docs/category/programar-tareas"
   },
   "next": {
-    "title": "Tareas programadas",
+    "title": "Agregar tarea",
     "permalink": "/docs/programar-tareas/tareas"
   }
 }

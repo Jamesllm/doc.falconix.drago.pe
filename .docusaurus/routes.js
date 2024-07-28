@@ -99,16 +99,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '89a'),
+    component: ComponentCreator('/docs', '9af'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '4ef'),
+        component: ComponentCreator('/docs', '523'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ce9'),
+            component: ComponentCreator('/docs', 'f6d'),
             routes: [
+              {
+                path: '/docs/category/enviar-correos',
+                component: ComponentCreator('/docs/category/enviar-correos', '81e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/programar-tareas',
                 component: ComponentCreator('/docs/category/programar-tareas', 'ab0'),
@@ -116,8 +122,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/docs/enviar-correos/Invoce',
+                component: ComponentCreator('/docs/enviar-correos/Invoce', '3c8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/enviar-correos/New order',
+                component: ComponentCreator('/docs/enviar-correos/New order', '216'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/enviar-correos/Publicity',
+                component: ComponentCreator('/docs/enviar-correos/Publicity', 'f24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -128,26 +146,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/programar-tareas/execute',
+                component: ComponentCreator('/docs/programar-tareas/execute', '7e5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/programar-tareas/modificar',
+                component: ComponentCreator('/docs/programar-tareas/modificar', '2ac'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/programar-tareas/tareas',
                 component: ComponentCreator('/docs/programar-tareas/tareas', 'b4c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/Invoce',
-                component: ComponentCreator('/docs/tutorial-extras/Invoce', 'bea'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-extras/New order',
-                component: ComponentCreator('/docs/tutorial-extras/New order', '9fc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-extras/Publicity',
-                component: ComponentCreator('/docs/tutorial-extras/Publicity', '0f7'),
+                path: '/docs/programar-tareas/todas_tareas',
+                component: ComponentCreator('/docs/programar-tareas/todas_tareas', '9b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

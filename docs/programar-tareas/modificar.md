@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Agregar tarea
+# Modificar tarea
 
-Endpoint para agregar una nueva tarea al scheduler.
+Endpoint para modificar una tarea al scheduler.
 
 
 <div class="flex">
@@ -12,19 +12,20 @@ Endpoint para agregar una nueva tarea al scheduler.
 
 <div class="url"> 
 ```bash
-URL/monitor/tasks/add
+URL/monitor/tasks/update
 ```
 </div>
 </div>
 
 ## Datos a enviar
 
-En este ejemplo se esta agregando una nueva tarea al scheduler, con el cron de ejecucion para cada minuto
+En este ejemplo se esta modificando una tarea del scheduler, con el cron de ejecucion para cada minuto
 
 ```js title="Body (JSON)"
 [
     {
-        "task_name": "new_task",
+        "id": 14,
+        "task_name": "actualiza_ok",
         "priority_id": 1,
         "start_date": "2024-06-25",
         "end_date": "2024-06-27",
@@ -47,6 +48,11 @@ En este ejemplo se esta agregando una nueva tarea al scheduler, con el cron de e
 import TableDrago from "@site/src/components/table"; 
 
 <TableDrago thead="Parametro, Tipo, Descripcion">
+<tr>
+    <td>id</td>
+    <td>int</td>
+    <td>ID de la tarea</td>
+</tr>
 <tr>
     <td>task_name</td>
     <td>string</td>
