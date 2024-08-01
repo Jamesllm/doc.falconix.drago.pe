@@ -2,7 +2,6 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 
 import CustomSection from "../components/Section/CustomSection";
-import Dashboard from "../components/Home/Dashboard";
 import Diagrama from "../components/Home/Diagrama";
 import HomepageHeader from "../components/Home/Header";
 
@@ -20,9 +19,6 @@ export default function Home() {
       <main>
         <CustomSection bgColor="bg-[#fd7254]">
           <Diagrama />
-        </CustomSection>
-        <CustomSection>
-          <Dashboard />
         </CustomSection>
       </main>
     </Layout>
