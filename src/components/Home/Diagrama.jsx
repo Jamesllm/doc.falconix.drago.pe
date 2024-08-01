@@ -11,7 +11,7 @@ export default function Diagrama() {
       </div>
       <img
         className="w-8/12 shadow-xl border-gray-100 border-4 rounded-xl"
-        src={useBaseUrl("img/home/diagrama.svg")}
+        src={useBaseUrl("img/home/diagrama.png")}
         alt="canvas"
       />
     </div>
