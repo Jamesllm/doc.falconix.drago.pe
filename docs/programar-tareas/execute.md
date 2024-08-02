@@ -29,12 +29,12 @@ URL/execution_immediate
 
 ## Parametros
 
-import TableDrago from "@site/src/components/table"; 
+import TableFalconix from "@site/src/components/TableFalconix"; 
 
-<TableDrago thead="Parametro, Tipo, Descripcion">
+<TableFalconix thead="Parametro, Tipo, Descripcion">
 <tr>
     <td>task_id</td>
     <td>int</td>
     <td>ID de la tarea</td>
 </tr>
-</TableDrago>
+</TableFalconix>

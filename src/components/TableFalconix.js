@@ -1,4 +1,4 @@
-export default function TableDrago(props) {
+export default function TableFalconix(props) {
   const thead = props.thead.split(",").map((item) => <th>{item}</th>);
 
   return (

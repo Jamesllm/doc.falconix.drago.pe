@@ -15,11 +15,11 @@ API facil de implementar en cualquier proyecto.
 La expresion crom para este servicio es la siguiente
 
 
-![Expresion crom](./img/expresion.svg)
+![Expresion crom](./img/expresion.png)
 
-import TableDrago from "@site/src/components/Table"; 
+import TableFalconix from "@site/src/components/TableFalconix"; 
 
-<TableDrago thead="*,*,*,*,*">
+<TableFalconix thead="*,*,*,*,*">
 <tr>
     <td>Minutos</td>
     <td>Horas</td>
@@ -27,5 +27,5 @@ import TableDrago from "@site/src/components/Table";
     <td>Mes</td>
     <td>Dias de la semana</td>
 </tr>
-</TableDrago>
+</TableFalconix>
 

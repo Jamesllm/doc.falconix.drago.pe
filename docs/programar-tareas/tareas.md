@@ -44,9 +44,9 @@ En este ejemplo se esta agregando una nueva tarea al scheduler, con el cron de e
 
 ## Parametros
 
-import TableDrago from "@site/src/components/table"; 
+import TableFalconix from "@site/src/components/TableFalconix"; 
 
-<TableDrago thead="Parametro, Tipo, Descripcion">
+<TableFalconix thead="Parametro, Tipo, Descripcion">
 <tr>
     <td>task_name</td>
     <td>string</td>
@@ -108,4 +108,4 @@ import TableDrago from "@site/src/components/table";
     <td>string</td>
     <td>Dias de la semana en **([formato crom](/docs/intro))**</td>
 </tr>
-</TableDrago>
+</TableFalconix>
